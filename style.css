@@ -1,0 +1,21 @@
+body {
+    background-image: url('img/plano_de_fundo_imagem.jpeg');
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cobrinha {
+    border: 1px dashed purple;
+    border-radius: 10px;
+}
+
+body h1 {
+    border-top: 1px solid lightgreen;
+    border-bottom: 1px solid greenyellow;
+}
