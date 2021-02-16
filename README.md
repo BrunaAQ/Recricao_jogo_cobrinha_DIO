@@ -6,6 +6,6 @@
 
 #### Tecnologias envolvidas:
 * 🎮 JavaScript (estrutura base - programação do joguinho)
-* 💡 HTML5 (estrutura base - canvas);
+* 💡 HTML5 (estrutura base - <i>canvas</i>);
 * 🎨 CSS3 (estilização)
  
